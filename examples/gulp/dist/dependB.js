@@ -1,0 +1,1 @@
+"use strict";var _Object$defineProperty=require("@babel/runtime-corejs3/core-js-stable/object/define-property");_Object$defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var someB=function(){console.log("someB")},_default=someB;exports.default=_default;
